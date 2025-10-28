@@ -25,12 +25,12 @@
 [![ru][badge-ru]][readme-en]
 [![en][badge-en]][readme-ru]
 
-UserScript for scroll page to top when press on YouTube logo!
+Пользовательский скрипт для скроллинга в начало страницы при нажатии на логотип YouTube
 
-## Installing the extension:
+## Установка расширения:
 
-> [!WARNING]
-> If you use Tampermonkey 5.2.0+, don't forget to [enable "Developer Mode"][devmode-enable]!
+> [!ВНИМАНИЕ]
+> Если используете Tampermonkey 5.2.0+, не забудьте  [включить режим разработчика][devmode-enable]!
 
-1. Install the extension **[Tampermonkey][tampermonkey-link]**
-2. **[«Install the Script»][script-link]**
+1. Установить **[Tampermonkey][tampermonkey-link]**
+2. **[Установить скрипт][script-link]**
