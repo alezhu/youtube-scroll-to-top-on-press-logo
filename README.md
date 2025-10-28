@@ -22,8 +22,8 @@
 
 <!-- Content -->
 
-[![ru][badge-ru]][readme-en]
-[![en][badge-en]][readme-ru]
+[![ru][badge-ru]][readme-ru]
+[![en][badge-en]][readme-en]
 
 UserScript for scroll page to top when press on YouTube logo!
 
