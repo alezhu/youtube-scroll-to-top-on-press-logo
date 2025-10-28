@@ -8,8 +8,8 @@
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=youtube.com
 // @grant        none
 // @homepageURL    https://github.com/alezhu/youtube-scroll-to-top-on-press-logo
-// @updateURL      https://raw.githubusercontent.com/alezhu/youtube-scroll-to-top-on-press-logo/main/dist/script.user.js
-// @downloadURL    https://raw.githubusercontent.com/alezhu/youtube-scroll-to-top-on-press-logo/main/dist/script.user.js
+// @updateURL      https://github.com/alezhu/youtube-scroll-to-top-on-press-logo/raw/refs/heads/main/script.user.js
+// @downloadURL    https://github.com/alezhu/youtube-scroll-to-top-on-press-logo/raw/refs/heads/main/script.user.js
 // @supportURL     https://github.com/alezhu/youtube-scroll-to-top-on-press-logo/issues
 // ==/UserScript==
 
