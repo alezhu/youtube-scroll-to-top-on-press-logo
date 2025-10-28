@@ -2,6 +2,7 @@
 // @name         YouTube scroll to top on home button
 // @namespace    http://tampermonkey.net/
 // @version      1.0.0
+// @license      MIT
 // @description  Scroll page to top when press on YouTube logo!
 // @author       alezhu
 // @match        https://www.youtube.com/
