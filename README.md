@@ -7,7 +7,8 @@
 
 <!-- Install / Build -->
 
-[script-link]: https://raw.githubusercontent.com/alezhu/youtube-scroll-to-top-on-press-logo/main/dist/script.user.js
+[script-link]: https://github.com/alezhu/youtube-scroll-to-top-on-press-logo/raw/refs/heads/main/script.user.js
+[script-link2]: https://raw.githubusercontent.com/alezhu/youtube-scroll-to-top-on-press-logo/main/dist/script.user.js
 [devmode-enable]: https://www.tampermonkey.net/faq.php#Q209
 
 <!-- Badges -->
